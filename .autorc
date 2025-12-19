@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Tredecillion-Team",
+  "repo": "container-np-fhzs",
+  "name": "Tredecillion-Team",
+  "email": "agus_bragas@yahoo.co.id",
+}
